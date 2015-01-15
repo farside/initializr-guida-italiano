@@ -3,7 +3,7 @@
 
 This repository contains the Italian translation web page of the [official Initializr guide] (http://www.html5-css3.fr/html5/initializr-generateur-template-html5-boilerplate) I made in 2012. 
 
-I plan to host it on github pages from now on, for future reference.
+Hosted on github pages, for future reference.
 
 If you have comments or corrections about my translation please create an [issue](../../issues).
 
