@@ -59,13 +59,6 @@ footer a:hover {
   text-decoration: none;
 	color: #ffffff;
 }
-#socialLinks {
-  text-align: center;
-}
-#socialLinks li {
-  list-style:none;
-  display:inline;
-}
 /* 
  * Menu
  *******************************************************************************/
