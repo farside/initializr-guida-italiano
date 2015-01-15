@@ -52,15 +52,12 @@ p.backtotop span {
   background: rgba(0,153,153,.9);
   -webkit-animation: pulse 240s infinite alternate;
 }
-p.backtotop a {
+footer a {
   color: #ffffff;
 }
-p.backtotop a:hover {
+footer a:hover {
   text-decoration: none;
-}
-p.backtotop span:hover {
-  background: #006666;
-  background: rgba(0,102,102,.9);
+	color: #ffffff;
 }
 /* 
  * Menu
